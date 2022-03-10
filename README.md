@@ -5,5 +5,4 @@
 - 🌱 Estoy aprendiendo como ser un PAD (Persona de Alto Desempeño).
 - 👯 Estoy colaborando en Queretaro con un despacho de abogados.
 - 🤔 Interesando en aprender a desarrollar en iOS con Swift.
-- 📫 Encuentas mas sobre mi en www.ulisesserrano.com
--->
+- 📫 Encuentas mas sobre mi en --> www.ulisesserrano.com
