@@ -1,4 +1,5 @@
-![github-header-image](https://user-images.githubusercontent.com/21280506/157725800-5cd2a71b-2d21-4316-bfcd-f99e6f11ecd6.png)
+<img width="2486" height="1920" alt="github-header-banner" src="https://github.com/user-attachments/assets/a4a8397e-fb36-4bff-9529-1854773cda46" />
+
 ### Hola 👋
 
 - 🔭 Actualmente trabajo en Universum Consulting Group.
